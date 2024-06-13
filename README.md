@@ -16,8 +16,11 @@ Before you begin, ensure you have met the following requirements:
 
 - **Node.js** (v14 or higher) and **npm**: Install from [nodejs.org](https://nodejs.org)
 - **MongoDB**: Make sure you have MongoDB installed and running. You can download it from [mongodb.com](https://www.mongodb.com)
-
-![Alt text](images/img1.png)
+<div>
+  <img src="img1.png" alt="Alt text" width="300" />
+  <img src="img4.png" alt="Alt text" width="300"/>
+  <img src="img2.png" alt="Alt text" width="300"/>
+</div>
 
 
 
